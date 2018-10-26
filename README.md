@@ -23,15 +23,14 @@ Made from one of the first programming language, the C. Word Hunt is the game th
 INSTRUCTION
 Choosing difficulty of the game
 This game has 10 Levels and upon entering the game you can choose the following difficulties.
-
-  [EASY] = Consist 4-5 Shuffled Letter words with 100 points every right answer.
-  [MEDIUM] = Consist 6-7 Shuffled Letter words with 200 points every right answer.
-  [HARD] = Consist 8-10 Shuffled Letter words with 300 points every right answer.
-  [EXTREME] = Deep Word Shuffled Letter with 400 points every right answer.
+ [EASY] = Consist 4-5 Shuffled Letter words with 100 points every right answer.
+ [MEDIUM] = Consist 6-7 Shuffled Letter words with 200 points every right answer.
+ [HARD] = Consist 8-10 Shuffled Letter words with 300 points every right answer.
+ [EXTREME] = Deep Word Shuffled Letter with 400 points every right answer.
 
 This game is simple just answer the shuffled letter of the word per level.
-Example: [DOWR]
-The answer is [WORD]
+ Example: [DOWR]
+ The answer is [WORD]
 
 Re-shuffle the word
 This feature helps the player to reshuffle again the given shuffled word but using this feature has deduction to your current score and the deduction depends on how many time you used it
@@ -47,11 +46,12 @@ Cheat Mode
 This function helps the player to reveal right answer, to skip current level with additional 100 points, additional 100 points for no reason, and game reset means back to zero.
 
 Cheat Codes
-[christopherpogi] = to reveal the right answer for the current level.
-[christopherpangit] = to hide the revealed answer for the current level.
-[errolcapistrano] = to skip the level while gaining points.(Depend on difficulty)
-[siasol] = to add 100 points to the current points.
-[haroldkalbo] = to reset the level and score to zero
+
+ [christopherpogi] = to reveal the right answer for the current level. 
+ [christopherpangit] = to hide the revealed answer for the current level.
+ [errolcapistrano] = to skip the level while gaining points.(Depend on difficulty)
+ [siasol] = to add 100 points to the current points.
+ [haroldkalbo] = to reset the level and score to zero
 
 Anagram
 This function is not visible, Anagram Function is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once. Every anagram has additional to the points
